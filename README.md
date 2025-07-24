@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Tech Stack  
+## Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,mysql,git,github,tensorflow,scikitlearn,vercel,postman" />
 </p>
@@ -51,7 +51,7 @@
 
 
 
-## 🤝 Let's Collaborate!
+## Let's Collaborate!
 > Open to hackathons, dev-jams, and side quests! Message me on [LinkedIn](https://www.linkedin.com/in/shashwat-dewangan-408637246/) or raise an Issue/PR!
 
 ---
