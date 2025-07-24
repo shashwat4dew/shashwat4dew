@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Shashwat 👋</h1>
-<p align="center"> <b>Building projects that (usually) work, and sometimes break things for science. 😄</b> </p>
+<p align="center"> <b>Building projects that (usually) work, and sometimes break things.</b> </p>
 
 ---
 
